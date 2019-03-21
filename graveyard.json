@@ -1,32 +1,32 @@
 [
   {
-    "dateClose": "2019-08-11",
-    "dateOpen": "2017-09-29",
-    "description": "Circles blah blah blah",
+    "dateClose": "2019-11-11",
+    "dateOpen": "2018-03-16",
+    "description": "Circles allows you to share all types of Picniic data with private groups, caregivers, and extended family.",
     "link": "https://www.picniic.com",
     "name": "Circles",
     "type": "app"
   },
   {
-    "dateClose": "2019-01-11",
-    "dateOpen": "2015-09-29",
-    "description": "Group Events blah blah blah",
+    "dateClose": "2017-11-03",
+    "dateOpen": "2016-05-20",
+    "description": "the Group Events tile created the opportunity to plan events with friends and get feedback",
     "link": "https://www.picniic.com",
     "name": "Group Events",
     "type": "app"
   },
   {
-    "dateClose": "2018-05-11",
-    "dateOpen": "2015-09-29",
-    "description": "the Ambassador Program blah blah blah",
-    "link": "https://www.picniic.com",
+    "dateClose": "2018-03-11",
+    "dateOpen": "2017-06-11",
+    "description": "the Ambassador Program allowed Picniic power users to earn money by inviting their friends to use Picniic using their unique referral code. RIP Ambassador Program.. if only Shaunie O'Neal pushed it harder..",
+    "link": "https://picniic.com/ambassadors",
     "name": "Ambassador Program",
     "type": "service"
   },
   {
-    "dateClose": "2019-01-11",
-    "dateOpen": "2015-09-29",
-    "description": "Picniic's referral program blah blah blah",
+    "dateClose": "2017-02-28",
+    "dateOpen": "2016-11-15",
+    "description": "Picniic's Referral Program allowed users to earn points for referring their friends to Picniic",
     "link": "https://www.picniic.com",
     "name": "Referral Program",
     "type": "service"
