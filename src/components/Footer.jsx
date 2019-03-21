@@ -7,9 +7,9 @@ export default () => (
   <FooterContainer>
     <div>
       <p>
-        {'Killed by Google is a Free and Open Source list of dead Google products, services, and devices. '}
+        {'Killed by Picniic is a Free and Open Source list of dead Google products, services, and devices. '}
         <span>
-          {'It serves to be a tribute and memorial of beloved products and services killed by Google.'}
+          {'It serves to be a tribute and memorial of beloved products and services killed by Picniic.'}
         </span>
       </p>
       <p>
