@@ -9,7 +9,7 @@ export default () => (
   <Masthead>
     <Logo src={Tombstone} alt="Tombstone" />
     <Title>
-      {'Killed by Google'}
+      {'Killed by Picniic'}
     </Title>
   </Masthead>
 );
