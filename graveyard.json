@@ -8,9 +8,17 @@
     "type": "app"
   },
   {
+    "dateClose": "2019-01-03",
+    "dateOpen": "2016-07-21",
+    "description": "the Web App provided users with access to Picniic via their web browser. Rumor is that founder and CTO Ivan Tung built the entire thing in 5 days, living only on ramen and Red Bull",
+    "link": "https://www.picniic.com/signin",
+    "name": "Web App",
+    "type": "app"
+  },
+  {
     "dateClose": "2017-11-03",
     "dateOpen": "2016-05-20",
-    "description": "the Group Events tile created the opportunity to plan events with friends and get feedback",
+    "description": "the Group Events tile created the opportunity to plan events with friends and get feedback. Group Events was like Doodle without the userbase.",
     "link": "https://www.picniic.com",
     "name": "Group Events",
     "type": "app"
@@ -26,9 +34,25 @@
   {
     "dateClose": "2017-02-28",
     "dateOpen": "2016-11-15",
-    "description": "Picniic's Referral Program allowed users to earn points for referring their friends to Picniic",
+    "description": "Picniic's Referral Program allowed users to earn points for referring their friends to Picniic. Unfortunately, Picniic's users are too wealthy to bother with pesky referral programs",
     "link": "https://www.picniic.com",
     "name": "Referral Program",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-10-17",
+    "dateOpen": "2017-08-03",
+    "description": "Pia is an intelligent assistant that assists users in Picniic to create events and surface information",
+    "link": "https://www.picniic.com",
+    "name": "Pia",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-10-20",
+    "dateOpen": "2016-07-20",
+    "description": "the 7 Day Free Trial allowed users to experience the upgraded version of Picniic for 7 days for free.",
+    "link": "https://picniic.com/",
+    "name": "7 Day Free Trial",
     "type": "service"
   }
 ]
